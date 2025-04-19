@@ -19,7 +19,8 @@ _Software Engineer Intern_
 📍 Mountain View, California  
 📅 Aug 2024 – Nov 2024  
 
-- Pioneered a comprehensive experimental LLM-based pipeline to effectively detect hallucinations in bilingual machine translation outputs.  
+- Pioneered a comprehensive experimental LLM-based pipeline to effectively detect hallucinations in bilingual machine translation outputs.
+- Engineered a Python-based preprocessing pipeline with NumPy and parallelized core pipeline modules, accelerating model training throughput.
 - Improved pipeline consistency and reliability by deploying 4+ research-supported prompt engineering methodologies.  
 - Boosted model evaluation robustness by integrating a novel quantitative metric, which drove a 15%+ uplift in model accuracy.  
 - Directed a 6-person human rater study, producing a gold-standard NLP dataset of 400+ data points for linguistic translation evaluation.  
